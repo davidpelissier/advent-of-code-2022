@@ -4,4 +4,5 @@
 - Day 02: [Rock Paper Scissors](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day02.kt)
 - Day 03: [Rucksack Reorganization](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day03.kt)
 - Day 04: [Camp Cleanup](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day04.kt)
+- Day 05: [Supply Stacks](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day05.kt)
 
