@@ -6,5 +6,5 @@ class Day06Test : DayTest<Day06>() {
 
     override val day = Day06
     override val expectPartOne = 7
-    override val expectPartTwo = 17
+    override val expectPartTwo = 19
 }
