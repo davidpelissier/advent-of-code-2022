@@ -5,9 +5,9 @@ import kotlin.math.abs
 
 object Day09 : Day(9, "Rope Bridge") {
 
-    override fun part1() = Snake(1).run().display().visitedByLastTail()
+    override fun part1() = Snake(1).run().visitedByLastTail()
 
-    override fun part2() = Snake(9).run().display().visitedByLastTail()
+    override fun part2() = Snake(9).run().visitedByLastTail()
 
     class Snake(nbTails: Int) {
 
@@ -30,14 +30,6 @@ object Day09 : Day(9, "Rope Bridge") {
                     tails[0].follow(head).markAsVisited()
                     for(i in 1 until tails.size) tails[i].follow(tails[i-1]).markAsVisited()
                 }
-            }
-            return this
-        }
-
-        fun display(): Snake {
-            val toPrint = matrix.reversed()
-            for (i in toPrint.indices) {
-                println(toPrint[i].toString())
             }
             return this
         }

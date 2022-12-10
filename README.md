@@ -9,4 +9,5 @@
 - Day 07: [No Space Left On Device](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day07.kt)
 - Day 08: [Treetop Tree House](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day08.kt)
 - Day 09: [Rope Bridge](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day09.kt)
+- Day 10: [Cathode-Ray Tube](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day10.kt)
 
