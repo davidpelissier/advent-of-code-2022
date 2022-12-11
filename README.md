@@ -10,4 +10,5 @@
 - Day 08: [Treetop Tree House](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day08.kt)
 - Day 09: [Rope Bridge](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day09.kt)
 - Day 10: [Cathode-Ray Tube](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day10.kt)
+- Day 11: [Monkey in the Middle](./src/main/kotlin/fr/davidpelissier/adventofcode2022/days/Day11.kt)
 
