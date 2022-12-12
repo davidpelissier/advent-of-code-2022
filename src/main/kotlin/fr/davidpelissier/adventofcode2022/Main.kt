@@ -11,6 +11,8 @@ import fr.davidpelissier.adventofcode2022.days.Day08
 import fr.davidpelissier.adventofcode2022.days.Day09
 import fr.davidpelissier.adventofcode2022.days.Day10
 import fr.davidpelissier.adventofcode2022.days.Day11
+import fr.davidpelissier.adventofcode2022.days.Day12
+
 
 object Main {
 
@@ -26,7 +28,7 @@ object Main {
         Day09,
         Day10,
         Day11,
-//        Day12,
+        Day12,
 //        Day13,
 //        Day14,
 //        Day15,
